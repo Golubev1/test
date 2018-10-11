@@ -11,3 +11,6 @@ int main(int argc, char **argv)
 
 int test(){
 }
+
+int test2(){
+}

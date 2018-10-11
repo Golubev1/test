@@ -1,0 +1,13 @@
+diff --git a/main.c b/main.c
+index 1ba68b3..c8c0c4a 100644
+--- a/main.c
++++ b/main.c
+@@ -7,4 +7,7 @@ int main(int argc, char **argv)
+ 	askname(first, last);
+ 	printf("Hello, %s %s!\n", first, last);
+ 	return 0;
++}
++
++int test(){
+ }
+\ No newline at end of file
